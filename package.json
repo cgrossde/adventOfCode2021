@@ -1,0 +1,14 @@
+{
+  "name": "adventofcode2021",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "canvas": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgrossde/adventOfCode2021.git"
+  }
+}
